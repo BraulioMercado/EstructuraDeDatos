@@ -1,0 +1,6 @@
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\obj\Debug\ED-Evaluacion7.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\bin\Debug\ED-Evaluacion7.exe.config
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\bin\Debug\ED-Evaluacion7.exe
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\bin\Debug\ED-Evaluacion7.pdb
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\obj\Debug\ED-Evaluacion7.exe
+c:\users\braul\source\repos\ED-Evaluacion7\ED-Evaluacion7\obj\Debug\ED-Evaluacion7.pdb
