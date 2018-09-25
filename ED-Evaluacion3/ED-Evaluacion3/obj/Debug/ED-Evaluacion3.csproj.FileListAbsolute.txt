@@ -1,0 +1,7 @@
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\bin\Debug\ED-Evaluacion3.exe.config
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\bin\Debug\ED-Evaluacion3.exe
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\bin\Debug\ED-Evaluacion3.pdb
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\obj\Debug\ED-Evaluacion3.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\obj\Debug\ED-Evaluacion3.exe
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\obj\Debug\ED-Evaluacion3.pdb
+C:\Users\braul\source\repos\ED-Evaluacion3\ED-Evaluacion3\obj\Debug\ED-Evaluacion3.csprojResolveAssemblyReference.cache
