@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\bin\Debug\ED-Evaluacion8.exe.config
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\bin\Debug\ED-Evaluacion8.exe
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\bin\Debug\ED-Evaluacion8.pdb
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\obj\Debug\ED-Evaluacion8.csprojResolveAssemblyReference.cache
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\obj\Debug\ED-Evaluacion8.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\obj\Debug\ED-Evaluacion8.exe
+c:\users\braul\source\repos\ED-Evaluacion8\ED-Evaluacion8\obj\Debug\ED-Evaluacion8.pdb
